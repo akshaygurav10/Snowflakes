@@ -1,0 +1,8 @@
+
+sources:
+  - name: AG_SOURCE_DEMO
+    database: HRMS
+    schema: HR
+    tables:
+      - name: EMPLOYEES
+      - name: DEPARTMENTS
